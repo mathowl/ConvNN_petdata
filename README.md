@@ -1,5 +1,5 @@
 # ConvNN_petdata
-Basic neural net optimization using Keras for the Kaggle cat-dog data set.  
+Basic neural net optimization using Keras for the Kaggle cat-dog data set.  (My first Keras NN ^-^ )
 
 ## Data
 The Kaggle cats and dogs data set can be downloaded from here https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
